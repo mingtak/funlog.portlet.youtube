@@ -1,0 +1,17 @@
+README.txt
+setup.py
+funlog/__init__.py
+funlog.portlet.youtube.egg-info/PKG-INFO
+funlog.portlet.youtube.egg-info/SOURCES.txt
+funlog.portlet.youtube.egg-info/dependency_links.txt
+funlog.portlet.youtube.egg-info/entry_points.txt
+funlog.portlet.youtube.egg-info/namespace_packages.txt
+funlog.portlet.youtube.egg-info/not-zip-safe
+funlog.portlet.youtube.egg-info/requires.txt
+funlog.portlet.youtube.egg-info/top_level.txt
+funlog/portlet/__init__.py
+funlog/portlet/youtube/__init__.py
+funlog/portlet/youtube/youtubevideo.py
+funlog/portlet/youtube/tests/__init__.py
+funlog/portlet/youtube/tests/base.py
+funlog/portlet/youtube/tests/test_portlet.py

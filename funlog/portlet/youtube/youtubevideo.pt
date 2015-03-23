@@ -1,0 +1,9 @@
+<div class="portlet portletScriptEditor"
+     i18n:domain="funlog.portlet.youtube">
+<h3 tal:content="view/data/videoTitle"></h3>
+<tal:embed define="url view/data/videoUrl;
+                   embedUrl python:url.replace('watch?v=', 'embed/')">
+  <iframe style="width:100%" width="560" height="315" frameborder="0" allowfullscreen 
+          tal:attributes="src string:${embedUrl}?rel=0&t=277"></iframe>
+</tal:embed>
+</div>
